@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.h50{
+    height: 50%;
+}
+
+.sign a{
+    text-decoration: none;
+    color:black;
+    font-size: 1.2rem;
+}
+
+.sign a:hover{
+    color:rgb(188, 209, 196);
+}
+
+
+
+
